@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Dash() {
+function Main() {
   return (
 
    <div>
@@ -188,4 +188,4 @@ function Dash() {
   )
 }
 
-export default Dash
+export default Main
