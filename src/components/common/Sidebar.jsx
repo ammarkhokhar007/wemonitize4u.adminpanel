@@ -6,12 +6,7 @@ function Sidebar() {
      <div className="navigation ">
   <ul>
     <li>
-      <a href="#">
-        <span className="icon">
-          <ion-icon name="logo-apple" />
-        </span>
-        <span className="title">Brand Name</span>
-      </a>
+        <img src="./assets/imgs/icon-1.png" alt="" style={{backgroundColor:"white",borderRadius:30 ,marginTop:10}}/>
     </li>
     <li>
       <a href="#">
