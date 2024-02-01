@@ -2,7 +2,6 @@ import React from 'react'
 
 function Main() {
   return (
-
    <div>
   <div className="cardBox">
     <div className="card">
